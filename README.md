@@ -7,3 +7,9 @@ In terms of Machine Learning models, this problem goes beyond detecting patterns
 This project, thus, aims to deploy certain ML models in hope of finding out the optimal one to solve this problem
 
 Dataset used: https://www.kaggle.com/competitions/ieee-fraud-detection/data
+
+----
+#### Core Problem: 
+Fraud Cases: imbalaced ration compared to Normal Cases
+
+In comparison between models: False Positives is still better than False Negatives (Negatives: 1, Positives: 0)
