@@ -13,3 +13,8 @@ Dataset used: https://www.kaggle.com/competitions/ieee-fraud-detection/data
 Fraud Cases: imbalaced ration compared to Normal Cases
 
 In comparison between models: False Positives is still better than False Negatives (Negatives: 1, Positives: 0)
+
+----
+#### Base Model
+Random Forest /
+ROC-AUC score: 0.8806
