@@ -18,3 +18,6 @@ In comparison between models: False Positives is still better than False Negativ
 #### Base Model
 Random Forest /
 ROC-AUC score: 0.8806
+  ##### Key Decision 
+  1. Label Encoding over One-Hot (to avoid dimensionality explosion)
+  2. Unknown category handling (assign -1 to unseen values)
