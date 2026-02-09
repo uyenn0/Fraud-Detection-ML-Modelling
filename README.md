@@ -1,6 +1,6 @@
 # Fraud-Detection-ML-Modelling
 
-The Rise of Malicious acts on Financial transactions, along with its complexity level, poses great threats for Financial Institutions, and challenges them to come up with better measures for detecting these behaviours. 
+The rise of malicious acts on Financial transactions, along with its complexity level, poses great threats for Financial Institutions, and challenges them to come up with better measures for detecting these behaviours. 
 
 In terms of Machine Learning models, this problem goes beyond detecting patterns, but more of: finding "the needle in the haystack", as malicious acts volume tends to be way less compared to normal financial transactions. 
 
