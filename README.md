@@ -8,6 +8,8 @@ This project, thus, aims to deploy certain ML models in hope of finding out the 
 
 Dataset used: https://www.kaggle.com/competitions/ieee-fraud-detection/data
 
+Link to work on Kaggle: https://www.kaggle.com/code/thuuyeniiee/ieee-fraud-detection
+
 ----
 #### Core Problem: 
 Fraud Cases: imbalaced ration compared to Normal Cases
